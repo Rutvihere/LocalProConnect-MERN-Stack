@@ -1,0 +1,24 @@
+/* customer.css */
+
+.customer-reviews-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .customer-review-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .customer-review-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .customer-review-message {
+    margin-top: 10px;
+    color: #666;
+  }
+  
